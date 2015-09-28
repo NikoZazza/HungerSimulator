@@ -1,0 +1,67 @@
+---
+IT:
+ invArg: 
+  mex: "Argomenti non validi"
+  color: "error"
+  
+ needOP:
+  mex: "Devi essere admin/OP per eseguire questo comando"
+  color: "warning"
+  
+ foodlv:
+  mex: "Il livello del cibo del giocatore @@ impostato su ##"
+  color: "success"
+  
+ satlv:
+  mex: "Il livello di saturazione del giocatore @@ impostato su ##"
+  color: "success"
+  
+ difflv:
+  mex: "La difficoltà del player @@ impostata su ##"
+  color: "success"  
+  
+ defdiff:
+  mex: "La difficoltà di default impostata su @@"
+  color: "success"
+  
+ plr404:
+  mex: "Il giocatore @@ non esiste"
+  color: "error"
+  
+ percplr:
+  mex: "Hai il @@ % del livello del della fame"
+  color: "success"
+  
+EN:
+ invArg: 
+  mex: "Invalid arguments"
+  color: "error"
+  
+ needOP:
+  mex: "You need to be admin/OP to run this command"
+  color: "warning"
+  
+ foodlv:
+  mex: "FoodLevel of the player @@ set to ##"
+  color: "success"
+  
+ satlv:
+  mex: "foodSaturationLevel of the player @@ set to ##"
+  color: "success"
+  
+ difflv:
+  mex: "La difficoltà del player @@ impostata su ##"
+  color: "success"  
+  
+ defdiff:
+  mex: "Difficulty of the player @@ set to ##"
+  color: "success"
+  
+ plr404:
+  mex: "The player @@ does not exist"
+  color: "error"
+  
+ percplr:
+  mex: "You have @@ % of the level of food"
+  color: "success"
+  

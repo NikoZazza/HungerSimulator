@@ -1,0 +1,22 @@
+---
+"":
+  foodLevel: 20
+  foodSaturationLevel: 0
+  foodTickTimer: 0
+  foodExaustionLevel: 0.000000
+xionbigm:
+  foodLevel: 20
+  foodSaturationLevel: 0
+  foodTickTimer: 0
+  foodExaustionLevel: 0.000000
+xionbig:
+  foodLevel: 20
+  foodSaturationLevel: 0
+  foodTickTimer: 0
+  foodExaustionLevel: 0.000000
+zazza:
+  foodLevel: "1"
+  foodSaturationLevel: 0
+  foodExaustionLevel: 0.000000
+  difficult: hard
+...

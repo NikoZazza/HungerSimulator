@@ -1,0 +1,11 @@
+name: HungerSimulator
+main: HungerSimulator\HungerSimulator
+version: 0.1
+api: 1.0.0
+description: This plugin allows you to simulate hunger on servers minecraft pocket edition as in MCPC.
+website: http://zazzamcpe.tk
+commands:
+ food:
+  description: "Control your Hunger"
+ hunger:
+  description: "Control your Hunger"
